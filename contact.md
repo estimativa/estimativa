@@ -3,4 +3,6 @@ layout: page
 title: contact
 permalink: /contact/
 ---
-![My helpful screenshot](contato.jpg){:class="img-responsive"}
+<p>
+    <img src=contato.jpg alt>
+</p>
