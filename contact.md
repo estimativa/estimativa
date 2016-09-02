@@ -3,6 +3,7 @@ layout: page
 title: contact
 permalink: /contact/
 ---
+{% include image name="contato.png" caption="Sharing my blog on LinkedIn" %}
 
 <div class="col-sm-4">
   <div class="thumbnail">
