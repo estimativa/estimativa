@@ -4,4 +4,10 @@ title: contact
 permalink: /contact/
 ---
 
-<img src="contato.png" alt="cartao" width="600" height="350">
+<div class="col-sm-4">
+  <div class="thumbnail">
+    <img src="contato.png" alt="cartao" width="600" height="350">
+    <p><strong>San Francisco</strong></p>
+    <p>Yes, San Fran is ours</p>
+  </div>
+</div>
